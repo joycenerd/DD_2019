@@ -1,0 +1,4 @@
+mount /mnt/qt_lib.img /opt
+export LD_LIBRARY_PATH=/opt/lib
+export QT_QWS_FONTDIR=/opt/lib/fonts
+mkdir /tmp/dc

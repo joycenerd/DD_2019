@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon May 20 14:18:50 2019
+# Process ID: 14712
+# Current directory: C:/Users/hp/Desktop/10/lab10_joyce/BOOTH/BOOTH/Booth
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14892 C:\Users\hp\Desktop\10\lab10_joyce\BOOTH\BOOTH\Booth\Booth.xpr
+# Log file: C:/Users/hp/Desktop/10/lab10_joyce/BOOTH/BOOTH/Booth/vivado.log
+# Journal file: C:/Users/hp/Desktop/10/lab10_joyce/BOOTH/BOOTH/Booth\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/hp/Desktop/10/lab10_joyce/BOOTH/BOOTH/Booth/Booth.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1

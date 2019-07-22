@@ -1,0 +1,3 @@
+1. Lab_11_example_testbench及Lab11_example_Zedboard為範例練習，請各位跑過一次確認結果正確。
+2. Lab_11_HW_testbench及Lab11_HW_Zedboard為本次作業，請同學只更改sysctrl.v的部分，讓結果與範例相符。
+3. HW或是example在ZedBoard跑出來的前幾筆結果不相同是正常的，請同學從result[09]=125後面開始驗證結果是否正確。

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat May  4 15:14:40 2019
+# Process ID: 10908
+# Current directory: D:/DDLab9_2019/DDlab9/DD_lab9
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12248 D:\DDLab9_2019\DDlab9\DD_lab9\DD_lab9.xpr
+# Log file: D:/DDLab9_2019/DDlab9/DD_lab9/vivado.log
+# Journal file: D:/DDLab9_2019/DDlab9/DD_lab9\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/DDLab9_2019/DDlab9/DD_lab9/DD_lab9.xpr

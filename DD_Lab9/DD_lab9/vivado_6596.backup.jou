@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Apr 27 18:03:25 2019
+# Process ID: 6596
+# Current directory: D:/DDLab9_2019/DDlab9/DD_lab9
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10808 D:\DDLab9_2019\DDlab9\DD_lab9\DD_lab9.xpr
+# Log file: D:/DDLab9_2019/DDlab9/DD_lab9/vivado.log
+# Journal file: D:/DDLab9_2019/DDlab9/DD_lab9\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/DDLab9_2019/DDlab9/DD_lab9/DD_lab9.xpr
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {D:/DDLab9_2019/DDlab9/DD_lab9/DD_lab9.runs/impl_1/system.bit} [get_hw_devices xc7z020_1]
+current_hw_device [get_hw_devices xc7z020_1]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7z020_1] 0]
+close_hw
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {D:/DDLab9_2019/DDlab9/DD_lab9/DD_lab9.runs/impl_1/system.bit} [get_hw_devices xc7z020_1]
+current_hw_device [get_hw_devices xc7z020_1]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7z020_1] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7z020_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z020_1]
+set_property PROGRAM.FILE {D:/DDLab9_2019/DDlab9/DD_lab9/DD_lab9.runs/impl_1/system.bit} [get_hw_devices xc7z020_1]
+program_hw_devices [get_hw_devices xc7z020_1]
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]

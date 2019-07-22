@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Wed Dec 20 16:09:34 2017
+# Process ID: 9940
+# Log file: D:/vivado/project_1/project_1.runs/impl_1/system.vdi
+# Journal file: D:/vivado/project_1/project_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source system.tcl -notrace

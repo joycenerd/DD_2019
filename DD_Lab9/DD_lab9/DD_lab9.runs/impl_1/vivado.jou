@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Apr 27 16:59:26 2019
+# Process ID: 5460
+# Current directory: D:/CCU/ECL File/助教什麼的/DD Lab/DD_Lab9/2018lab11/DDlab12/Lab12DemoV1.0/Lab12Demo.runs/impl_1
+# Command line: vivado.exe -log system.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source system.tcl -notrace
+# Log file: D:/CCU/ECL File/助教什麼的/DD Lab/DD_Lab9/2018lab11/DDlab12/Lab12DemoV1.0/Lab12Demo.runs/impl_1/system.vdi
+# Journal file: D:/CCU/ECL File/助教什麼的/DD Lab/DD_Lab9/2018lab11/DDlab12/Lab12DemoV1.0/Lab12Demo.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source system.tcl -notrace

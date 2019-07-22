@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Sun May 12 21:00:51 2019
+# Process ID: 31796
+# Current directory: C:/Users/user/Downloads/BOOTH (1)/BOOTH/Booth
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22056 C:\Users\user\Downloads\BOOTH (1)\BOOTH\Booth\Booth.xpr
+# Log file: C:/Users/user/Downloads/BOOTH (1)/BOOTH/Booth/vivado.log
+# Journal file: C:/Users/user/Downloads/BOOTH (1)/BOOTH/Booth\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun May 12 21:01:06 2019...

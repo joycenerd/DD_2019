@@ -1,0 +1,92 @@
+$date
+	Mon Apr 01 15:21:47 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module testbench $end
+$var wire 4 ! out [3:0] $end
+$var reg 1 " CLK $end
+$var reg 4 # count [3:0] $end
+$scope module l5 $end
+$var wire 3 $ in [2:0] $end
+$var reg 4 % out [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1 %
+b0 $
+b0 #
+1"
+b1 !
+$end
+#10000
+0"
+#20000
+b1001 %
+b1001 !
+b1 $
+b1 #
+1"
+#30000
+0"
+#40000
+b111 %
+b111 !
+b10 $
+b10 #
+1"
+#50000
+0"
+#60000
+b110 !
+b110 %
+b11 $
+b11 #
+1"
+#70000
+0"
+#80000
+b0 !
+b0 %
+b100 $
+b100 #
+1"
+#90000
+0"
+#100000
+b11 !
+b11 %
+b101 $
+b101 #
+1"
+#110000
+0"
+#120000
+b1 !
+b1 %
+b110 $
+b110 #
+1"
+#130000
+0"
+#140000
+b1001 %
+b1001 !
+b111 $
+b111 #
+1"
+#150000
+0"
+#160000
+b1 %
+b1 !
+b0 $
+b0 #
+1"
+#160778

@@ -1,0 +1,21 @@
+iverilog -o test tb32mpy.v
+vvp test
+
+iverilog -o test tb32mpy_opt.v
+vvp test
+
+iverilog -o test tb32mpy_booth.v
+vvp test
+
+iverilog -o test tb32mpy_booth_mod.v
+vvp test
+
+gtkwave lab10.vcd
+
+
+arm-none-linux-gnueabi-gcc Booth.c -o lab10
+
+/dev/mmcblk0p1 /mnt
+/mnt
+chmod +x lab10
+./lab10
